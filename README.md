@@ -1,1 +1,1 @@
-This is Sugoi Game!!!
+THIS IS SUGOI GAME!!!
